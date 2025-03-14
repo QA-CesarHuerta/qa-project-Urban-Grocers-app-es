@@ -1,5 +1,3 @@
-from http.client import responses
-
 import data
 import sender_stand_request
 
